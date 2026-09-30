@@ -1,0 +1,5 @@
+# TQIP data must never be committed (ACS data use agreement)
+data/
+output/
+__pycache__/
+.venv/
